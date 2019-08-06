@@ -8,3 +8,5 @@ I demonstrate the utility of the following two important concepts that are ubiqu
 2. **Class Imbalance** Oversampling the minority class
 
 [SMOTE example](http://rikunert.com/SMOTE_explained)
+
+<a href="http://rikunert.com/SMOTE_explained" target="_blank">SMOTE example</a> 
