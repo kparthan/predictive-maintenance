@@ -7,6 +7,6 @@ I demonstrate the utility of the following two important concepts that are ubiqu
 1. **Curse of Dimensionality** Selecting the right features
 2. **Class Imbalance** Oversampling the minority class
 
-[SMOTE example](http://rikunert.com/SMOTE_explained)
+[SMOTE example](http://rikunert.com/SMOTE_explained "title" target="_blank")
 
 <a href="http://rikunert.com/SMOTE_explained" target="_blank">SMOTE example</a> 
